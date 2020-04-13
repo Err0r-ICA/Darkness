@@ -1,19 +1,19 @@
 #!/bin/sh
 #Termux
-echo "installing..."
-pkg update
-echo "done..."
-pkg upgrade
-echo "done..."
+echo - e "\033[91mInstalling..."
+pkg update - y
+echo - e "\033[92m Succesfully Done..."
+pkg upgrade - y
+echo - e "\033[92m Succesfully Done..."
 pkg install git
-echo "done..."
+echo - e "\033[92m Succesfully Done..."
 pkg install wget
-echo "done..."
+echo - e "\033[92m Succesfully Done..."
 pkg install python2
-echo "done..."
+echo - e "\033[92m Succesfully Done..."
 pkg install perl
-echo "done..."
+echo - e "\033[92m Succesfully Done..."
 pkg install php
-echo "done..."
-echo "now u u need install the requirements with command \033[32mpip install -r requirements.txt\033[1;37m"
-echo "Ok"
+echo - e "\033[92m Succesfully Done..."
+echo - e "\033[93mNow You Need to Install The Requirements With Command \033[92mpip install -r requirements.txt\033[1;97m"
+echo ""
