@@ -2,4 +2,4 @@
 Virus/Scanners/Exploits Repository 
 
 ## Screenshot 
-![Screenshot](https://i.postimg.cc/Sy6jRRrB/Screenshot-20200425-145623-Termux.jpg) 
+![Screenshot](https://i.postimg.cc/FmSMd6JQ/Screenshot-20200425-150032-Termux.jpg) 
