@@ -3,8 +3,8 @@ Virus/Scanners/Exploits Repository
 
 ## Commands
 git clone https://github.com/Err0r-ICA/Darkness <br>
-cd Darkness
-python2 Darkness
+cd Darkness <br>
+python2 Darkness <br>
 
 ## Screenshot 
 ![Screenshot](https://i.postimg.cc/FmSMd6JQ/Screenshot-20200425-150032-Termux.jpg) 
