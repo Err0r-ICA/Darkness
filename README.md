@@ -1,7 +1,7 @@
 ![logo](https://i.postimg.cc/rpGFNGSV/Screenshot-20200930-061325-Chrome.jpg)
 
 
-Virus/Scanners/Exploits Repository 
+<b><i>Virus/Scanners/Exploits Repository</b></i> 
 
 ## Commands
 git clone https://github.com/Err0r-ICA/Darkness <br>
